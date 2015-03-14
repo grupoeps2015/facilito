@@ -19,7 +19,7 @@ CREATE TABLE tbl_user (
     correo VARCHAR(128) NOT NULL
 );
 
-INSERT INTO tbl_user (username, password, correo) VALUES ('Ricardo', 'pass1', 'ricardoeps@example.com');
+INSERT INTO tbl_user (username, password, correo) VALUES ('test1', 'pass1', 'test1@example.com');
 INSERT INTO tbl_user (username, password, correo) VALUES ('test2', 'pass2', 'test2@example.com');
 INSERT INTO tbl_user (username, password, correo) VALUES ('test3', 'pass3', 'test3@example.com');
 INSERT INTO tbl_user (username, password, correo) VALUES ('test4', 'pass4', 'test4@example.com');
