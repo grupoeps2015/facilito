@@ -1,0 +1,23 @@
+Esta es una prueba para verificar que sus ambientes de desarrollo estan instalados y funcionan al 100%
+
+La tarea que necesito que realicen es la siguiente.
+
+1. Creen un clon del repositorio en la carpeta C:/xampp/htdocs/yii (o donde sea que hayan instalado xampp)
+
+2. Deben ejecutar el script "facilito/protected/data/schema.pgsql.sql" La password de la base de datos que yo utilice es "pruebas123". Si ustedes configuraron otra al instalar postgres deben modificar la conexion desde el el archivo "/facilito/protected/config/main.php"
+
+3. Una vez creada la base de datos y la tabla (la cual tiene solo 4 registros) la tarea de cada uno es modificar un registro poniendo su nombre y un correo relacionado a ese nombre de la siguiente manera
+
+- Marlen registro 2
+- Maythee registro 3
+- Gerson registro 4
+
+4. Ya que hayan modificado, deberan comprobar la conexion de la base de datos con Yii abriendo la pagina http://localhost/yii/facilito/hola/
+
+5. Una vez que comprueben que la conexion esta bien, lo ultimo que van a hacer es sacar un pantallazo y agregarlo al repositorio en la carpeta "/facilito/images", en esa carpeta esta ya el ejemplo de como me quedo a mi, por lo que en el caso de ustedes solo se vera afectado el registro que modifiquen.
+
+El repositorio es: https://github.com/grupoeps2015/facilito.git
+El usuario del repositorio: grupoeps2015
+El password es: git1_pass
+
+Exitos pues, tienen hasta el domingo antes de las 10 pm para cumplir la tarea, asi nos dormirmos temprano :3
