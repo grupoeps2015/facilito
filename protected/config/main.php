@@ -53,7 +53,7 @@ return array(
             'connectionString' => 'pgsql:host=localhost;port=5432;dbname=facilito',
             'emulatePrepare' => true,
             'username' => 'postgres',
-            'password' => 'pruebas123',
+            'password' => 'eps',
             'charset' => 'utf8',
         ),
 		'errorHandler'=>array(
